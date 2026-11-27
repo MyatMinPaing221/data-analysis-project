@@ -185,7 +185,7 @@ The dashboard includes:
 
 ### Power BI File
 
-[Download Power BI Dashboard (.pbix)](PowerBI/Game_Launch_API_Monitoring_Analytics.pbix)
+[Download Power BI Dashboard (.pbix)](PowerBI%20Analytics/game-monitoring-analytics.pbix)
 
 ## 7. Key Findings
 
